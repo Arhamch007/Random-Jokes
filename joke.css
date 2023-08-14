@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+color: black;
+text-align: center;
+margin: auto;
+width: 50%;
+padding:80px 20px;
+background-color: aliceblue;
+height: auto;
+border-radius: 10px;
+position:absolute;
+top: 130px;
+left: 270px;
+padding-top: 30px;
+}
+.btn{
+    box-shadow: 1px 1px 10px 4px pink;
+    border-radius: 3px;
+    background-color: darkgray;
+    color: black;
+    font-size: 11px;
+    padding: 4px;
+}
+.btn:hover{
+    background-color: #fff;
+}
